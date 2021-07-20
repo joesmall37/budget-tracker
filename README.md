@@ -34,7 +34,9 @@
 
 ## Deployed Application
 - [Link to deployed application](https://glacial-ravine-95025.herokuapp.com/)
-- ![D80CAD22-90E9-4FFB-821F-5C4538424287_1_201_a](https://user-images.githubusercontent.com/63420051/121931587-d06eea00-cd11-11eb-83bb-0a648c6864ec.jpeg)
+<!-- - ![D80CAD22-90E9-4FFB-821F-5C4538424287_1_201_a](https://user-images.githubusercontent.com/63420051/121931587-d06eea00-cd11-11eb-83bb-0a648c6864ec.jpeg) -->
+- ![E2AE3CE0-F101-4B71-BBB5-BFAE6E69407E](https://user-images.githubusercontent.com/63420051/126358739-12336f20-0230-4d6e-9f78-8dc80151b239.png)
+
 
 
 ## Contribution 
